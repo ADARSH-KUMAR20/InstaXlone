@@ -1,0 +1,47 @@
+[
+  {
+      
+    "name": "Sophia Bennett",
+    "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+    "description": "Just finished my morning run 🏃‍♀️🌅, Coffee + coding = perfection ☕💻",
+    "mainImage": "https://picsum.photos/1000/1200",
+    "likeCount": 324
+  },
+  {
+    "name": "Liam Carter",
+    "profileImage": "https://randomuser.me/api/portraits/men/32.jpg",
+    "description": "Exploring new hiking trails today! 🏞️,Just finished my morning run 🏃‍♀️🌅,Just finished my morning run 🏃‍♀️🌅 Exploring new hiking trails today! 🏞️,Just finished my morning run 🏃‍♀️🌅,Just finished my morning run 🏃‍♀️🌅",
+    "mainImage": "https://picsum.photos/1000/1600",
+    "likeCount": 178
+  },
+  {
+    "name": "Ava Thompson",
+    "profileImage": "https://randomuser.me/api/portraits/women/68.jpg",
+    "description": "Coffee + coding = perfection ☕💻",
+    "mainImage": "https://picsum.photos/800/600",
+    "likeCount": 542
+  },
+  {
+    "name": "Sophia Bennett",
+    "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+    "description": "Just finished my morning run 🏃‍♀️🌅, Coffee + coding = perfection ☕💻",
+    "mainImage": "https://picsum.photos/800/600",
+    "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "likeCount": 324
+  },
+  {
+    "name": "Liam Carter",
+    "profileImage": "https://randomuser.me/api/portraits/men/32.jpg",
+    "description": "Exploring new hiking trails today! 🏞️,Just finished my morning run 🏃‍♀️🌅,Just finished my morning run 🏃‍♀️🌅 Exploring new hiking trails today! 🏞️,Just finished my morning run 🏃‍♀️🌅,Just finished my morning run 🏃‍♀️🌅",
+    "mainImage": "https://picsum.photos/1000/1200",
+    "likeCount": 178
+  },
+  {
+    "name": "Ava Thompson",
+    "profileImage": "https://randomuser.me/api/portraits/women/68.jpg",
+    "description": "Coffee + coding = perfection ☕💻",
+    "mainImage": "https://picsum.photos/1000/1000",
+    "videoURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+    "likeCount": 542
+  }
+]
